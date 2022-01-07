@@ -1,0 +1,10 @@
+console.log('Hello World');
+console.log("Hello Winc Academy");
+        let name = 'Gaby';
+        console.log(name);
+       let sum = 4+4;
+        console.log(sum);
+        let age = 44;
+        console.log(age);
+        let age2 = 'vierenveertig';
+        console.log(age2);
